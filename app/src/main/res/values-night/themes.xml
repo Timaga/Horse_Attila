@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Horse_Attila" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/text_night</item>
+
+        <item name="android:windowBackground">@color/background_color_night</item>
+        <item name="ButtonShapeColor">@color/button_shape_night_color</item>
+        <item name="android:fontFamily">@font/marker</item>
+    </style>
+</resources>

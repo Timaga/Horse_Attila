@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="80sp"
+    android:layout_marginStart="80sp"
+    android:background="@drawable/shape_toast"
+    android:id="@+id/toast_message"
+    >
+    <TextView
+        android:id="@+id/toast_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Решение найдено!"
+        android:textStyle="bold"
+        android:textSize="23sp"
+        android:padding="15dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+
+        />
+</LinearLayout>

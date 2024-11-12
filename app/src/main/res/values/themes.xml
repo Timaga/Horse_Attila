@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+
+    <style name="Base.Theme.Horse_Attila" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:fontFamily">@font/play_fair</item>
+        <item name="android:windowBackground">@color/background_color_light</item>
+        <item name="ButtonShapeColor">@color/button_shape_light_color</item>
+    </style>
+    <style name="Theme.Horse_Attila" parent="Base.Theme.Horse_Attila" />
+</resources>
+
+
+<!--    android:background="#BFDDE7"-->
